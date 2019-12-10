@@ -4,7 +4,7 @@
 
 First you need to start Mura up:
 ```
-git clone https://github.com/blueriver/MuraVueDecoupled.git
+git clone https://github.com/murasoftware/mura-vue-decoupled.git
 cd MuraVueDecoupled
 git checkout master
 cd mura
@@ -34,7 +34,7 @@ npm install
 
 If you're on Windows you will need to edit this file to change "cp" to "copy"
 
-https://github.com/blueriver/MuraVueDecoupled/blob/master/vue/package.json#L6
+https://github.com/murasoftware/mura-vue-decoupled/blob/master/vue/package.json#L6
 
 Then start the Vue service
 
